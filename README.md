@@ -1,1 +1,2 @@
-provide some solutions for coding problems from https://leetcode-cn.com/problems with c++.
+# Design_patterns_cpp
+some common design patterns with c++ impl
