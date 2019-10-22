@@ -105,7 +105,6 @@ private:
            {
                 ret.retVal = l1->val + l2->val + carryBit;
            }
-          
         }   
         return ret;
     }
